@@ -1,4 +1,6 @@
-# `tmx`
+# OBSOLETE
+
+Please use [tmx](https://github.com/dkorolev/tmx) instead of this `tmx-tmp`.
 
 Termux commands to copy-paste: [subsection](#commands-inside-termux).
 
